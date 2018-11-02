@@ -1,0 +1,13 @@
+{
+  "name": "test-engine-checks",
+  "description": "Testing npm vs yarn engines checks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adanilev/test-engine-checks"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "7.2.1"
+  }
+}
